@@ -1,0 +1,48 @@
+Arithmetic Sequences: you can find each term by adding (or subtracting) the same number to the term before 
+
+The formula for the nth term of an arithmetic sequence is: 
+u_1 = first term in series 
+d = common difference 
+
+u_n = u_1 + (n-1)*d 
+
+
+prints arithmetic sequence up to the nth term 
+
+Math Educational goals:
+
+Programming goals:
+variables
+math operators 
+data types- floats and ints 
+
+calling functions 
+
+
+first instructions how to run cell and print to to the console 
+
+
+The sum up to n terms of an arithmetic sequence is given by the formula:
+S(n) = n/2(2*u + (n-1)* d)
+
+Another formula for the sum to n terms of an arithmetic sequence is 
+S(n) = n/2(u_1 +u)
+
+
+
+
+
+
+Geometric sequences 
+
+
+Currency conversions 
+
+
+Compound Interest 
+
+
+
+
+
+
