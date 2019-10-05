@@ -25,6 +25,11 @@ first instructions how to run cell and print to to the console
 The sum up to n terms of an arithmetic sequence is given by the formula:
 S(n) = n/2(2*u + (n-1)* d)
 
+
+
+
+
+
 Another formula for the sum to n terms of an arithmetic sequence is 
 S(n) = n/2(u_1 +u)
 
@@ -33,7 +38,32 @@ S(n) = n/2(u_1 +u)
 
 
 
+
+
+
+
+
+
+
+
 Geometric sequences 
+
+
+The formula for the nth term of a geometric sequence is:
+u_n = u_1 * r ** (n-1)
+
+n= 8
+u_1 = 24
+r= .5
+
+A formula for the sum to n terms of a geometric sequence is: 
+s_n = (u_1 (r**n -1))/(r - 1)
+
+Another formula for sum to n terms of an arithmetic sequence is: 
+s_n = (n/2) (u_1 + u_n)
+
+
+
 
 
 Currency conversions 
@@ -44,5 +74,11 @@ Compound Interest
 
 
 
+Make a table of python operators and examples:
++ 
+-
+* 
+/ 
+** exponent 
 
-
+imbed Latec math equations of images 
