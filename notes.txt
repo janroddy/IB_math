@@ -26,12 +26,8 @@ The sum up to n terms of an arithmetic sequence is given by the formula:
 S(n) = n/2(2*u + (n-1)* d)
 
 
-
-
-
-
-Another formula for the sum to n terms of an arithmetic sequence is 
-S(n) = n/2(u_1 +u)
+Another formula for the sum to n terms of an arithmetic sequence: is 
+S(n) = n/2(u_1 +u_n)
 
 
 
