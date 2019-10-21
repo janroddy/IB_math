@@ -9,7 +9,7 @@ u_n = u_1 + (n-1)*d
 
 prints arithmetic sequence up to the nth term 
 
-Math Educational goals:
+
 
 Programming goals:
 variables
